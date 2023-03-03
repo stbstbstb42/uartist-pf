@@ -1,4 +1,6 @@
-# UArtist Desktop (Windows & Mac)
+# UArtist Desktop v0.01 (Windows & Mac)
+
+using flutter for prototyping
 
 ## Getting Started
 
