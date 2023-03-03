@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "429065711825",
+    "firebase_url": "https://uartist-d9ce4-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "uartist-d9ce4",
+    "storage_bucket": "uartist-d9ce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429065711825:android:c85fc0642aec0ca0f1d5f0",
+        "android_client_info": {
+          "package_name": "com.flutterflow.healthai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429065711825-6eab72un1dmevv9hbtgq505i2c55sc9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsvFxTBE1MvfD5W1eUMzRJTCZDQF4Ub_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429065711825-6eab72un1dmevv9hbtgq505i2c55sc9c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "429065711825-ngnktvmg3pr41rngfaosnepm645h2mg3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.healthai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
